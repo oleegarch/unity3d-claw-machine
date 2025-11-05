@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60b26be58f04a4c46ad3b177c0782319, type: 3}
+  m_Name: turtle
+  m_EditorClassIdentifier: 
+  name: turtle
+  title: Turtle
+  winDescription: "\u0422\u044B \u043F\u043E\u043B\u0443\u0447\u0430\u0435\u0448\u044C
+    \u0447\u0435\u0440\u0435\u043F\u0430\u0448\u043A\u0443!"
+  prefab: {fileID: 1833062860539484063, guid: 325d11166fc310442827062dbfbbed99, type: 3}
+  prefabPreview: {fileID: 601292447383457636, guid: d6770f46c859f13429ec39f31da38203,
+    type: 3}
+  renderTexture: {fileID: 8400000, guid: 248018fd02eba9845904cbd94c95b4c1, type: 2}

@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "grabby",
+  "version": "1.0.2",
+  "description": "Google Play and App Store game",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "Oleg Mikhailov",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1",
+    "pick-deep": "^1.0.0"
+  }
+}
